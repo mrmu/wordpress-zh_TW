@@ -1,2 +1,4 @@
-# wordpress-zh_TW
-WordPress 正體中文
+# WordPress 正體中文 4.4.1
+
+http://tw.wordpress.org/
+
